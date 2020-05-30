@@ -1,0 +1,98 @@
+@CHARSET "UTF-8";
+
+.thien {
+	width: 540px;
+	margin: 50px auto;
+	font-size: 12px;
+}
+
+.thien a {
+	font-size: 12px;
+}
+.thien  p {
+	border-bottom: 1px dashed #dbdbdb;
+	text-shadow: 1px 1px #FFF;
+	margin: 20px;
+	padding-left: 10px;
+}
+
+
+
+.thien h1 {
+	border: 2px solid #d16c04;
+	border-radius: 10px;
+	text-align: center;
+	color: #ef1515e0;
+	font-weight: bold;
+	font-size : 18px;
+}
+
+.thien h2 {
+	color: #162986;
+	text-decoration: underline;
+	font-size : 16px;
+}
+
+.thien h3 {
+	color: #668bce;
+	margin: 10px;
+	font-size : 14px;
+}
+
+.thien h4 {
+	display: block;
+	font-weight: bold;
+	line-height: 1.18;
+	color: #3d3d3d;
+	padding-top: 15px;
+	font-size : 12px;
+}
+.thien h5 {
+	margin: 5px;
+	font-size : 10px;
+}
+
+.thien img {
+	width: 170px;
+	height: 80px;
+}
+
+.thien .anh1 {
+	display: block;
+	float: left;
+	width: 180px;
+	height: 100px;
+}
+
+.thien .anh {
+	height: 90px;
+}
+
+.thien .right {
+	float: right;
+}
+
+/* --------- */
+
+.thien .content1 {
+	text-decoration: none;
+}
+
+.thien .content2 {
+	text-decoration: underline;
+}
+
+.thien .content3 {
+	
+}
+
+/*---------*/
+
+.thien .infobox {
+	margin: 10px;
+}
+
+.thien .infobox1 {
+	margin: 15px;
+	color: red;
+}
